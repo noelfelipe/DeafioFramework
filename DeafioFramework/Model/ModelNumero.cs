@@ -7,7 +7,6 @@ namespace DeafioFramework.Model
 {
     public class ModelNumero
     {
-        [JsonProperty("mensagem")]
         public int Numero { get; set; }
     }
 }
